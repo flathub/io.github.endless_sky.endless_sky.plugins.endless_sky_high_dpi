@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/flatpak/flatpak-builder/main/data/flatpak-manifest.schema.json",
     "id": "io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi",
     "runtime": "io.github.endless_sky.endless_sky",
-    "runtime-version": "stable",
+    "runtime-version": "beta",
     "sdk": "org.freedesktop.Sdk//23.08",
     "build-extension": true,
     "appstream-compose": false,
@@ -16,8 +16,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.10.16.tar.gz",
-                    "sha256": "10f1b4b5fd3b54a67df55909103b53c36cf65d0224f997ca41a2c4c3e7098d57",
+                    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.11.0.tar.gz",
+                    "sha256": "7a4aebacb41ae9300487c213a81cea1ea73b58de3dc7883bdd2c7150f949f7a0",
                     "dest": "endless-sky-high-dpi",
                     "x-checker-data": {
                         "type": "anitya",
