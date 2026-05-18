@@ -16,8 +16,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.11.0.tar.gz",
-                    "sha256": "7a4aebacb41ae9300487c213a81cea1ea73b58de3dc7883bdd2c7150f949f7a0",
+                    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.11.1.tar.gz",
+                    "sha256": "3dabcc1f29e335f2fcc5779cbe13ea583598be3aa043654eb7eee0df758afe95",
                     "dest": "endless-sky-high-dpi",
                     "x-checker-data": {
                         "type": "anitya",
